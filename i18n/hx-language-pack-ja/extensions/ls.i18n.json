@@ -1,7 +1,7 @@
 {
 	"contents": {
 		"com.pandora.launcher.core.ios_sim": {
-			"Tip.BaseAppStarting": "アプリケーションを開始しています."
+			"Tip.BaseAppStarting": "アプリケーションが起動中."
 		},
 		"com.pandora.launcher.core": {
 			"HMobileDeviceLauncher.Connection.1": "携帯電話接続の確立...",
